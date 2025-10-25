@@ -1,31 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: apgyorfi # Your GitHub organization or username, where this repository lives
+repo: services-monitor # The name of this repository
+
+runner: "[self-hosted, linux, X64]"
+skipDeleteIssues: true
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Honlap
+    url: $WEBSITE
+  - name: ISP
+    url: $ISP
+  - name: Coolify 
+    url: $COOLIFY
+  - name: Dashy
+    url: $DASHY
+  - name: AUTH
+    url: $AUTH
+  - name: BKK API
+    url: $BKKAPI
+  - name: BM API
+    url: $BMAPI
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.apgyorfi.dev
+  # baseUrl: /services-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: apgyorfi.dev Status Page
+  theme: ocean
   navbar:
     - title: Status
       href: /
@@ -34,3 +37,7 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+commitMessages:
+  commitAuthorName: "monitor-bot"
+  commitAuthorEmail: $AUTHORMAIL
