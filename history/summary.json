@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apgyorfi.dev.ico",
     "slug": "honlap",
     "status": "up",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "27.17%",
+    "uptimeDay": "27.17%",
+    "uptimeWeek": "27.17%",
+    "uptimeMonth": "27.17%",
+    "uptimeYear": "27.17%",
     "time": 160,
     "timeDay": 160,
     "timeWeek": 160,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 29
+      "2025-10-25": 39
     }
   },
   {
@@ -44,6 +44,26 @@
     "url": "$COOLIFY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "coolify",
+    "status": "up",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2025-10-25": 39
+    }
+  },
+  {
+    "name": "Dashy",
+    "url": "$DASHY",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "dashy",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -56,27 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 29
-    }
-  },
-  {
-    "name": "Dashy",
-    "url": "$DASHY",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "dashy",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-10-25": 29
+      "2025-10-25": 39
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 28
+      "2025-10-25": 39
     }
   },
   {
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 28
+      "2025-10-25": 39
     }
   },
   {
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 28
+      "2025-10-25": 39
     }
   }
 ]
