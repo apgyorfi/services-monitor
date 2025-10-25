@@ -7,7 +7,7 @@ runner: "[self-hosted, linux, X64]"
 
 sites:
   - name: Honlap
-    url: $WEBSITE
+    url: https://apgyorfi.dev
   - name: ISP
     url: $ISP
   - name: Coolify 
