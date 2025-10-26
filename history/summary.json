@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/apgyorfi.dev.ico",
     "slug": "honlap",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 176,
     "timeDay": 176,
     "timeWeek": 176,
     "timeMonth": 176,
     "timeYear": 176,
-    "dailyMinutesDown": {
-      "2025-10-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ISP",
@@ -43,38 +41,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "coolify",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 260,
     "timeDay": 260,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2025-10-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashy",
     "url": "$DASHY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashy",
-    "status": "down",
-    "uptime": "85.80%",
-    "uptimeDay": "85.80%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "85.80%",
-    "uptimeYear": "85.80%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "status": "up",
+    "uptime": "85.23%",
+    "uptimeDay": "85.23%",
+    "uptimeWeek": "85.23%",
+    "uptimeMonth": "85.23%",
+    "uptimeYear": "85.23%",
+    "time": 285,
+    "timeDay": 285,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-10-26": 148
+      "2025-10-26": 155
     }
   },
   {
@@ -83,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 122,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2025-10-26": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BKK API",
@@ -103,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bkk-api",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 146,
     "timeDay": 146,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2025-10-26": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BM API",
@@ -123,18 +115,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bm-api",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 140,
     "timeDay": 140,
     "timeWeek": 140,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {
-      "2025-10-26": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
