@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/apgyorfi.dev.ico",
     "slug": "honlap",
     "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 159,
     "timeWeek": 159,
     "timeMonth": 159,
     "timeYear": 159,
-    "dailyMinutesDown": {
-      "2025-10-26": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ISP",
@@ -60,19 +58,19 @@
     "url": "$DASHY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashy",
-    "status": "down",
-    "uptime": "98.27%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "98.27%",
-    "time": 315,
-    "timeDay": 315,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "95.56%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-10-26": 13
+      "2025-10-26": 35
     }
   },
   {
