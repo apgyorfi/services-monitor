@@ -19,7 +19,7 @@ sites:
   - name: BKK API
     url: $BKKAPI
   - name: BM API
-    url: $BMAPI
+    url: $BM_API
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
