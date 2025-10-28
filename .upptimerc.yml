@@ -20,6 +20,8 @@ sites:
     url: $BKKAPI
   - name: BM API
     url: $BM_API
+  - name: Nextcloud
+    url: $NEXTCLOUD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
