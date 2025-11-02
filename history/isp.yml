@@ -1,7 +1,7 @@
 url: $ISP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-02T11:01:45.885Z
+status: up
+code: 200
+responseTime: 64
+lastUpdated: 2025-11-02T11:11:45.178Z
 startTime: 2025-10-26T00:31:30.243Z
 generator: Upptime <https://github.com/upptime/upptime>
