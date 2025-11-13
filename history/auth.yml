@@ -1,7 +1,7 @@
 url: $AUTH
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-13T19:57:12.491Z
+status: up
+code: 200
+responseTime: 232
+lastUpdated: 2025-11-13T20:11:37.453Z
 startTime: 2025-10-26T00:31:32.043Z
 generator: Upptime <https://github.com/upptime/upptime>
