@@ -4,7 +4,7 @@
     "url": "https://apgyorfi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/apgyorfi.dev.ico",
     "slug": "honlap",
-    "status": "up",
+    "status": "down",
     "uptime": "92.04%",
     "uptimeDay": "97.03%",
     "uptimeWeek": "92.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 169,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2025-11-16": 0,
       "2025-11-15": 42,
       "2025-11-14": 149,
       "2025-11-13": 91,
