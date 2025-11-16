@@ -1,7 +1,7 @@
 url: $COOLIFY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-16T13:04:55.534Z
+status: up
+code: 200
+responseTime: 265
+lastUpdated: 2025-11-16T13:18:13.173Z
 startTime: 2025-10-26T00:31:30.699Z
 generator: Upptime <https://github.com/upptime/upptime>
