@@ -4,19 +4,19 @@
     "url": "https://apgyorfi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/apgyorfi.dev.ico",
     "slug": "honlap",
-    "status": "up",
-    "uptime": "91.74%",
-    "uptimeDay": "88.22%",
-    "uptimeWeek": "92.02%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "91.74%",
+    "status": "down",
+    "uptime": "91.82%",
+    "uptimeDay": "89.54%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "91.82%",
+    "uptimeYear": "91.82%",
     "time": 169,
-    "timeDay": 168,
+    "timeDay": 166,
     "timeWeek": 165,
     "timeMonth": 169,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-11-18": 109,
+      "2025-11-18": 111,
       "2025-11-17": 136,
       "2025-11-16": 158,
       "2025-11-15": 42,
@@ -37,7 +37,7 @@
       "2025-10-31": 134,
       "2025-10-30": 159,
       "2025-10-29": 78,
-      "2025-10-28": 129
+      "2025-10-28": 101
     }
   },
   {
@@ -94,12 +94,12 @@
     "url": "$DASHY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashy",
-    "status": "up",
-    "uptime": "78.84%",
-    "uptimeDay": "86.35%",
+    "status": "down",
+    "uptime": "79.22%",
+    "uptimeDay": "86.34%",
     "uptimeWeek": "79.86%",
-    "uptimeMonth": "78.84%",
-    "uptimeYear": "78.84%",
+    "uptimeMonth": "79.22%",
+    "uptimeYear": "79.22%",
     "time": 259,
     "timeDay": 253,
     "timeWeek": 254,
@@ -127,7 +127,7 @@
       "2025-10-31": 99,
       "2025-10-30": 354,
       "2025-10-29": 97,
-      "2025-10-28": 421
+      "2025-10-28": 301
     }
   },
   {
