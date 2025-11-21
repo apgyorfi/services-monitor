@@ -1,7 +1,7 @@
 url: $DASHY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-21T07:11:06.666Z
+status: up
+code: 200
+responseTime: 278
+lastUpdated: 2025-11-21T09:02:49.165Z
 startTime: 2025-10-26T00:31:31.355Z
 generator: Upptime <https://github.com/upptime/upptime>
