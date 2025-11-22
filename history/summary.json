@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apgyorfi.dev.ico",
     "slug": "honlap",
     "status": "up",
-    "uptime": "92.45%",
-    "uptimeDay": "90.72%",
-    "uptimeWeek": "89.58%",
-    "uptimeMonth": "92.45%",
-    "uptimeYear": "92.45%",
+    "uptime": "92.48%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "89.50%",
+    "uptimeMonth": "92.48%",
+    "uptimeYear": "92.48%",
     "time": 167,
-    "timeDay": 160,
+    "timeDay": 158,
     "timeWeek": 162,
     "timeMonth": 167,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-11-22": 86,
+      "2025-11-22": 94,
       "2025-11-21": 138,
       "2025-11-20": 146,
       "2025-11-19": 102,
@@ -38,7 +38,7 @@
       "2025-11-03": 162,
       "2025-11-02": 67,
       "2025-11-01": 169,
-      "2025-10-31": 74
+      "2025-10-31": 55
     }
   },
   {
@@ -100,7 +100,7 @@
     "status": "up",
     "uptime": "82.02%",
     "uptimeDay": "79.04%",
-    "uptimeWeek": "77.47%",
+    "uptimeWeek": "77.54%",
     "uptimeMonth": "82.02%",
     "uptimeYear": "82.02%",
     "time": 255,
