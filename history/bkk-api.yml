@@ -1,7 +1,7 @@
 url: $BKKAPI
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-28T03:55:30.712Z
+status: up
+code: 200
+responseTime: 128
+lastUpdated: 2025-11-28T04:07:51.077Z
 startTime: 2025-10-26T00:31:32.609Z
 generator: Upptime <https://github.com/upptime/upptime>
